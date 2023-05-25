@@ -1,0 +1,79 @@
+body
+{
+    background-color:darkslategray;
+    text-align:center;
+}
+
+#title
+{
+    color:antiquewhite;
+    font-size: 5rem;
+    
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+footer
+{
+   color:antiquewhite;
+   font-size: 1rem;
+   text-align: center;
+   left: 0;
+   bottom: 0;
+   position:fixed;
+   width:100%;
+   
+}
+button
+{
+    background-color:antiquewhite;
+    padding: 40px;
+    font-size:4rem;
+    border: 2px solid black;
+    color: black;
+    cursor: pointer;
+    text-shadow: 3px 0 #DBEDF3;
+}
+button:hover
+{
+    background-color: black;
+    color:antiquewhite;
+}
+.w
+{
+   background-image: url("https://em-content.zobj.net/thumbs/120/samsung/349/drum_1f941.png");
+}
+.a
+{
+   
+    background-image: url("https://em-content.zobj.net/thumbs/120/samsung/349/drum_1f941.png");
+}
+
+.s
+{
+
+    background-image: url("https://em-content.zobj.net/thumbs/120/samsung/349/drum_1f941.png");
+}
+
+.d
+{
+   
+    background-image: url("https://em-content.zobj.net/thumbs/120/samsung/349/drum_1f941.png");
+}
+
+.j
+{
+    
+   background-image: url("https://em-content.zobj.net/thumbs/120/apple/325/musical-keyboard_1f3b9.png");
+}
+
+.k
+{ 
+    background-image: url("https://em-content.zobj.net/thumbs/120/apple/325/banjo_1fa95.png");
+
+}
+
+.l
+{
+    background-image: url("https://em-content.zobj.net/thumbs/120/apple/325/long-drum_1fa98.png");
+}
